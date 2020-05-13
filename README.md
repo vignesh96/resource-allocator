@@ -79,7 +79,7 @@ Calculate this for every region and show them as the below example.
 
         “region”: “China”,
 
-        “total_cost”: “$8580”,
+        “total_cost”: “$8570”,
 
         “machines”: [
 
